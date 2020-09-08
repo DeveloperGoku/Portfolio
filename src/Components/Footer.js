@@ -18,9 +18,9 @@ class Footer extends Component {
               {networks}
            </ul>
 
-           <ul>
-            <li>Modified with love by the Clever Programmer team ♥️</li>
-           </ul>
+           {/* <ul>
+            <li>Modified with love by the Clever Programmer team <span role="img">♥️</span></li>
+           </ul> */}
 
            <ul className="copyright">
               <li>&copy; All credit goes to Tim Baker - Copyright 2017 Tim Baker</li>
