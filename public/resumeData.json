@@ -1,0 +1,139 @@
+{
+  "main": {
+    "name": "Gourav Kumar",
+    "occupation": "ReactJS & Dotnet Developer && Fulltime Employee @ William Oneil India",
+    "description": "Full Stack React & Dotnet Developer by Day, Freelancer by Night",
+    "image": "Gourav_OnlineResume.jpg",
+    "bio": "My name is Gourav Kumar, I'm a Full Stack ReactJS & Dotnet Developer. Currently I'm working at William Oneil India ",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "gouravkumar291991@gmail.com",
+    "phone": "+918553443523",
+    "address": {
+      "street": "Sadarmangala Road, Hoodi",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "zip": "560066"
+    },
+    "website": "",
+    "resumedownload": "",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/gourav.kumar.583671",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/gourav-kumar-2583b717b",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/om_gourav_kumar/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/DeveloperGoku",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "East West Institute of Technology Bengaluru",
+        "degree": "Bachelor of Engineering in Computer Science and Engineering",
+        "graduated": "September 2015",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "William O'Neil India",
+        "title": "Software Engineer",
+        "years": "April 2019 - Present",
+        "description": "Develop software solutions for relatime stock trading."
+      },
+      {
+        "company": "Liventus Technologies",
+        "title": "Software Developer",
+        "years": "Aug 2016 - March 2019",
+        "description": "Develop software solutions for HR Management system and Online Careers Portal."
+      }
+    ],
+    "skills": [
+      {
+        "name": "C#",
+        "level": "100%"
+      },
+      {
+        "name": "ASP.net MVC",
+        "level": "100%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "CSS",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "SQL Server",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "MERN Stack WhatsApp Clone",
+        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "whatsapp-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+      },
+      {
+        "title": "MERN Stack TikTok Clone",
+        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "tiktok-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+      },
+      {
+        "title": "Facebook Clone with React",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "facebook-clone.png",
+        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
+      },
+      {
+        "title": "Airbnb Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "airbnb-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
+      },
+      {
+        "title": "Netflix Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "netflix-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Quick learner with go getter attitude. Takes Ownership and Responsibility of tasks.",
+        "user": "Neeraj Khanna - Head Of IT"
+      }
+    ]
+  }
+}
